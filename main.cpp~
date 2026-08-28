@@ -1,0 +1,13 @@
+#include <iostream>
+
+using namespace std;;
+
+int input() {
+  int input;
+  cout << "What number? ";
+  cin >> input;
+  cout << "Your number is: " << input << endl;
+
+  return 0;
+}
+
