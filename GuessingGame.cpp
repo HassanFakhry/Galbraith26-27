@@ -17,10 +17,16 @@
 
 // Extra Things I added (Beyond the 40 points)
 
+// 1- To lower (via cctype) (so the user can input Y, y, N, or n)
+// 2- Edge checking (if the user doesn't input the right thing, it tells them to guess again)
+// 3- The number isn't up to 100, but rather up to as much as they want
+// 4- If you enter 0, the game exits.
 #include <iostream>
 
 #include <cstdlib> // Gemini Incorporated
 #include <ctime>   // Gemini Incorporated
+#include <cctype>
+#include <limits>
 
 using namespace std;
 
@@ -35,31 +41,54 @@ int main() {
   bool game = true;
    
   while (game == true) {
-    ++guesses;
-    cout << "Please input a number! " << " Reminder, this is your " << guesses << " Attempt! ";
+   
+    cout << "Please input a number! " << " Reminder, this is your " << guesses << " Attempt! (type 0 to exit) ";
     cin >> input;
-    if (input < randomNumber) {
-      cout << "Too small! Try again!" << endl;
+
+    if (input >= 0 && input <= 100) {
+      ++guesses;
+      if (input == 0) {
+	game = false;
+	cout << "Thank you for playing.";
+      
+      }
+      else if (input < randomNumber) {
+	cout << "Too small! Try again!" << endl;
     
-    }
-    else if (input > randomNumber) {
-      cout << "Too big! Try again!" << endl;
+      }
+      else if (input > randomNumber) {
+	cout << "Too big! Try again!" << endl;
+      }
+
+      else {
+	cout << "Congratulations! You guessed the number! " << " It took you " << guesses << " attempts! " << endl;
+	bool unanswered = true;
+     
+	while (unanswered) {
+
+	  cout << "Would you like to play again? (y/n)" << endl;
+	  cin >> answer;
+	
+	  if (std::tolower(answer) == 'y') {
+	    guesses = 0;
+	    randomNumber = rand() % 101;
+	    unanswered = false;
+	  }
+	  else if (std::tolower(answer) == 'n') {
+	    cout << "Thank you for playing the game!" << endl;
+	    game = false;
+	    unanswered = false;
+	
+	  }
+	  else {
+	    cout << "Please say either 'y' or 'n' in any case to say if you want to play again." << endl;
+	  }
+ 
+	}
+      }
     }
     else {
-      cout << "Congratulations! You guessed the number! " << " It took you " << guesses << " attempts! " << endl;
-      cout << "Would you like to play again?" << endl;
-      cin >> answer;
-
-      if (answer == 'y') {
-	guesses = 0;
-	randomNumber = rand() % 101;
-      }
-      else if (answer == 'n') {
-	cout << "Thank you for playing the game!" << endl;
-	game = false;
-    } 
-  
- 
+      cout << " Please enter a valid integer.";
     }
   }
   return 0;
