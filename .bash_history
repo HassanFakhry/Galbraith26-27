@@ -36,3 +36,43 @@ emacs main.cpp
 ./main.exe
 g++ main.cpp -o main && ./main
 emacs main.cpp
+emacs GuessingGame.cpp
+emacs GuessingGame.cpp
+emacs GuessingGame.cpp
+ls
+g++ GuessingGame.cpp -o Assignment1
+emacs GuessingGame.cpp
+g++ GuessingGame.cpp -o Assignment1
+emacs GuessingGame.cpp
+g++ GuessingGame.cpp -o Assignment1
+emacs GuessingGame.cpp
+emacs GuessingGame.cpp
+g++ GuessingGame.cpp -o Assignment1
+./Assignment1.exe
+emacs GuessingGame.cpp
+g++ GuessingGame.cpp -o Assignment1
+./Assignment1.exe
+emacs GuessingGame.cpp
+emacs GuessingGame.cpp
+g++ GuessingGame.cpp -o Assignment1
+./Assignment1.exe
+emacs GuessingGame.cpp
+emacs GuessingGame.cpp
+./Assignment.exe
+g++ GuessingGame.cpp -o Assignment1
+./Assignment1.exe
+emacs GuessingGame.cpp
+g++ GuessingGame.cpp -o Assignment1
+./Assignment1.exe
+emacs GuessingGame.cpp
+g++ GuessingGame.cpp -o Assignment1
+./Assignment1.exe
+emacs GuessingGame.cpp
+git init
+[200~git commit -am "Update guessing game code"
+git push~
+git remote add origin https://github.com/HassanFakhry/Galbraith26-27.git
+git add .
+git commit -m "Add Guessing Game code"
+git push -u origin main
+git push -u origin master
