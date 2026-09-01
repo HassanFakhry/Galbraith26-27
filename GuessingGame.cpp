@@ -45,6 +45,12 @@ int main() {
     cout << "Please input a number! " << " Reminder, this is your " << guesses << " Attempt! (type 0 to exit) ";
     cin >> input;
 
+    if (cin.fail()) {
+      cin.clear(); // Gemini told me to do this, -- I understand the logic though, clear the error state so it no longer believs it is there
+      cout << "Invalid input. Please enter an integer.";
+      
+    }
+
     if (input >= 0 && input <= 100) {
       ++guesses;
       if (input == 0) {
