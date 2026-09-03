@@ -46,7 +46,6 @@ int getInt(int range) {
 }
 
 
-
 int main() {
   int input;
   int range;
@@ -107,7 +106,7 @@ int main() {
 		cout << "\n";
 		questionTwoPending = false;
 		randomNumber = rand() % range+1;
-		cout << randomNumber;
+
 	      }
 
 	      else if (std::tolower(answer) == 'n') {
