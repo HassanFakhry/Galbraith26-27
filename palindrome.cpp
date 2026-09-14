@@ -1,10 +1,10 @@
+
 // Hassan Fakhhry - 10:06 AM, Sep 10 2026
 // In this Palindrome project we check the first 80 characters a user inputs,
 // After filtering out the noise (Spaces/Punctuation), make all characters lowercase
 // Then, reverse that string, and check if the filtered string and the reversed filtered strong are the same
 // If they are, then print out "Palindrome!"
 // Otherwise, print Not a Palindrome.
-
 // Imports
 
 #include <iostream>
@@ -52,6 +52,5 @@ int main() {
   // cout << "finish loop" << endl;
   if (strcmp(str, strpal) == 0) cout << "Palindrome!" << endl; // if the vals are the same
   else cout << "Not a palindrome." << endl; // otherwise
- 
-  return 0;
+
 }

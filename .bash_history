@@ -103,3 +103,145 @@ ls
 git add .
 git commit -m "Palindrome d1"
 git push origin main
+ls
+./Palindrome.cpp
+emacs palindrome.cpp
+./palindrome.exe
+./palindrome.exe
+./palindrome.exe
+emacs palindrome.cpp
+g++ palindrome.cpp -o palindrome
+./palindrome.exe
+hhh
+./palindrome.exe
+emacs palindrome.cpp
+g++ palindrome.cpp -o palindrome
+emacs palindrome.cpp
+g++ palindrome.cpp -o palindrome
+hey
+./palindrome.exe
+./palindrome.exe
+emacs palindrome.cpp
+g++ palindrome.cpp -o palindrome
+./palindrome.exe
+emacs palindrome.cpp
+g++ palindrome.cpp -o palindrome
+./palindrome.exe
+g++ palindrome.cpp -o palindrome
+emacs palindrome.cpp
+emacs palindrome.cpp
+g++ palindrome.cpp -o palindrome
+./palindrome.exe
+g++ palindrome.cpp -o palindrome
+emacs palindrome.cpp
+g++ palindrome.cpp -o palindrome
+emacs palindrome.cpp
+g++ palindrome.cpp -o palindrome
+./palindrome.exe
+g++ palindrome.cpp -o palindrome
+emacs palindrome.cpp
+g++ palindrome.cpp -o palindrome
+emacs palindrome.cpp
+./palindrome.exe
+emacs palindrome.cpp
+g++ palindrome.cpp -o palindrome
+./palindrome.exe
+g++ palindrome.cpp -o palindrome
+
+g++ palindrome.cpp -o palindrome
+./palindrome.exe
+emacs palindrome.cpp
+g++ palindrome.cpp -o palindrome
+./palindrome.exe
+./palindrome.exe
+emacs palindrome.cpp
+./palindrome.exe
+./palindrome.exe
+emacs palindrome.cpp
+g++ palindrome.cpp -o palindrome
+./palindrome.exe
+emacs palindrome.cpp
+g++ palindrome.cpp -o palindrome
+emacs palindrome.cpp
+g++ palindrome.cpp -o palindrome
+./palindrome.exe
+emacs palindrome.cpp
+g++ palindrome.cpp -o palindrome
+./palindrome.exe
+./palindrome.exe
+g++ palindrome.cpp -o palindrome
+emacs palindrome.cpp
+g++ palindrome.cpp -o palindrome
+./palindrome.exe
+./palindrome.exe
+emacs palindrome.cpp
+g++ palindrome.cpp -o palindrome
+./palindrome.exe
+./palindrome.exe
+emacs palindrome.cpp
+g++ palindrome.cpp -o palindrome
+emacs palindrome.cpp
+g++ palindrome.cpp -o palindrome
+./palindrome.exe
+./palindrome.exe
+g++ palindrome.cpp -o palindrome
+emacs palindrome.cpp
+./palindrome.exe
+./palindrome.exe
+emacs palindrome.cpp
+g++ palindrome.cpp -o palindrome
+./palindrome.exe
+./palindrome.exe
+./palindrome.exe
+emacs palindrome.cpp
+g++ palindrome.cpp -o palindrome
+./palindrome.exe
+hey how are you doing
+
+./palindrome.exe
+./palindrome.exe
+./palindrome.exe
+./palindrome.exe
+g++ palindrome.cpp -o palindrome
+
+emacs palindrome.cpp
+g++ palindrome.cpp -o palindrome
+emacs palindrome.cpp
+g++ palindrome.cpp -o palindrome
+./palindrome.exe
+./palindrome.exe
+./palindrome.exe
+./palindrome.exe
+emacs palindrome.cpp
+./palindrome.exe
+./palindrome.exe
+./palindrome.exe
+emacs palindrome.cpp
+g++ palindrome.cpp -o palindrome[A
+g++ palindrome.cpp -o palindrome[A
+g++ palindrome.cpp -o palindrome
+./palindrome.exe
+./palindrome.exe
+emacs palindrome.cpp
+git add .
+git commit -m "Palindrome"
+git push -u origin main
+git push
+git push --set-upstream origin main
+git pulll
+git pull
+git push -u origin main
+git pull
+git pull origin main
+git pull origin main --allow-unrelated-histories
+git push -u origin main --force
+emacs palindrome.cpp
+g++ palindrome.cpp -o palindrome
+emacs palindrome.cpp
+g++ palindrome.cpp -o palindrome
+emacs palindrome.cpp
+g++ palindrome.cpp -o palindrome
+git add .
+git push -u origin main -force
+git push -u origin main --force
+emacs palindrome.cpp

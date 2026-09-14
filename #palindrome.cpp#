@@ -1,0 +1,39 @@
+
+
+#include <iostream>
+#include <cctype>
+#include <ctime>
+#include <cstdlib>
+#include <cstring>
+
+using namespace std;
+
+int main() {
+  char prestr[81];
+  char strpal[81];
+  char str[81];
+  cin.get(str, 81);
+
+  int preSize = strlen(prestr);
+  int size = 0;
+  for (int i = 0; i < preSize; i++) {
+    if (std::isspace(prestr[z) {
+      size++;
+      str[size] = prestr[i];      
+    }
+  }
+  cout << size << endl;
+  cout << str << endl;
+  char final[size];
+  for (int i = 0; i < size; i++) {
+      strpal[size - 1 - i] = str[i];
+  }
+  strpal[size] = '\0';
+  
+  cout << strpal << endl; 
+  cout << "finish loop" << endl;
+  if (strcmp(str, strpal) == 0) cout << "Palindrome!" << endl;
+  else cout << "Not a palindrome." << endl;
+ 
+  return 0;
+}
