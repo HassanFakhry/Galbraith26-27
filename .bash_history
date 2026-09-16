@@ -245,3 +245,63 @@ git add .
 git push -u origin main -force
 git push -u origin main --force
 emacs palindrome.cpp
+emacs palindrome.cpp
+emacs TicTacToe.cpp
+g++ TicTacToe.cpp -o TicTacToe
+emacs TicTacToe.cpp
+emacs TicTacToe.cpp
+g++ TicTacToe.cpp -o TicTacToe
+emacs TicTacToe.cpp
+g++ TicTacToe.cpp -o TicTacToe
+emacs TicTacToe.cpp
+g++ TicTacToe.cpp -o TicTacToe
+emacs TicTacToe.cpp
+g++ TicTacToe.cpp -o TicTacToe
+emacs TicTacToe.cpp
+g++ TicTacToe.cpp -o TicTacToe
+emacs TicTacToe.cpp
+g++ TicTacToe.cpp -o TicTacToe
+./TicTacToe
+git add .
+git commit -m "Board Created"
+git push -u origin main
+emacs TicTacToe.cpp
+ls
+emacs TicTacToe.cpp
+
+emacs TicTacToe.cpp
+g++ TicTacToe.cpp -o TicTacToe
+emacs TicTacToe.cpp
+g++ TicTacToe.cpp -o TicTacToe
+emacs TicTacToe.cpp
+emacs TicTacToe.cpp
+g++ TicTacToe.cpp -o TicTacToe
+emacs TicTacToe.cpp
+g++ TicTacToe.cpp -o TicTacToe
+emacs TicTacToe.cpp
+g++ TicTacToe.cpp -o TicTacToe
+emacs TicTacToe.cpp
+g++ TicTacToe.cpp -o TicTacToe
+./TicTacToe
+22
+./TicTacToe
+./TicTacToe
+g++ TicTacToe.cpp -o TicTacToe
+emacs TicTacToe.cpp
+g++ TicTacToe.cpp -o TicTacToe
+./TicTacToe
+emacs TicTacToe.cpp
+g++ TicTacToe.cpp -o TicTacToe
+emacs TicTacToe.cpp
+g++ TicTacToe.cpp -o TicTacToe
+./TicTacToe
+./TicTacToe
+g++ TicTacToe.cpp -o TicTacToe
+emacs TicTacToe.cpp
+g++ TicTacToe.cpp -o TicTacToe
+emacs TicTacToe.cpp
+g++ TicTacToe.cpp -o TicTacToe
+g++ TicTacToe.cpp -o TicTacToe
+./TicTacToe
+emacs TicTacToe.cpp
+emacs TicTacToe.cpp
