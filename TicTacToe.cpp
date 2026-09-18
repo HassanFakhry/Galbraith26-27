@@ -10,7 +10,7 @@ int main() {
         {'b', ' ', ' ', ' '},
         {'c', ' ', ' ', ' '}
     };
-
+    bool not_stopped;
     bool winner = false;
     int turn = 0;
     char input[3];
@@ -51,6 +51,23 @@ int main() {
                     cout << "Good Game! Player " << cp << " Has won the game!" << endl;
                     winner = true;
                 }
+		else {
+		  not_stopped = true;
+		  while (not_stopped) {
+		    for (int i = 1; i < 4; i++) {
+		      for (int j = 1; j < 4; j++) {
+			if (grid[i][j] == ' ') not_stopped = false;
+		      }
+		    }
+		    if (not_stopped) {
+		      cout << "The game ended in a tie. " << endl;
+		      not_stopped = false;
+		      winner = true;
+		    }
+		  }
+		}
+
+		
             }
         } else {
             cp = 'X';
@@ -85,8 +102,27 @@ int main() {
                     cout << "Good Game! Player " << cp << " Has won the game!" << endl;
                     winner = true;
                 }
+		
+		else {
+		  not_stopped = true;
+		  while (not_stopped) {
+		    for (int i = 1; i < 4; i++) {
+		      for (int j = 1; j < 4; j++) {
+			if (grid[i][j] == ' ') not_stopped = false;
+		      }
+		    }
+		    
+		    if (not_stopped) {
+		      cout << "The game ended in a tie. " << endl;
+		      not_stopped = false;
+		      winner = true;
+		  }
+		}
+
+		
             }
         }
+    }
     }
 
     return 0;

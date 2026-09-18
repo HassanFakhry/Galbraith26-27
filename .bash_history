@@ -305,3 +305,43 @@ g++ TicTacToe.cpp -o TicTacToe
 ./TicTacToe
 emacs TicTacToe.cpp
 emacs TicTacToe.cpp
+emacs TicTacToe.cpp
+g++ TicTacToe.cpp -o TicTacToe
+./TicTacToe
+emacs TicTacToe.cpp
+g++ TicTacToe.cpp -o TicTacToe
+./TicTacToe
+emacs TicTacToe.cpp
+g++ TicTacToe.cpp -o TicTacToe
+./TicTacToe
+g++ TicTacToe.cpp -o TicTacToe
+emacs TicTacToe.cpp
+g++ TicTacToe.cpp -o TicTacToe
+g++ TicTacToe.cpp -o TicTacToe
+./TicTacToe
+emacs TicTacToe.cpp
+g++ TicTacToe.cpp -o TicTacToe
+./TicTacToe
+emacs TicTacToe.cpp
+emacs TicTacToe.cpp
+
+emacs TicTacToe.cpp
+g++ TicTacToe.cpp -o TicTacToe
+./TicTacToe
+emacs TicTacToe.cpp
+g++ TicTacToe.cpp -o TicTacToe
+emacs TicTacToe.cpp
+./TicTacToe
+emacs TicTacToe.cpp
+g++ TicTacToe.cpp -o TicTacToe
+emacs TicTacToe.cpp
+emacs TicTacToe.cpp
+g++ TicTacToe.cpp -o TicTacToe
+./TicTacToe
+./TicTacToe
+./TicTacToe
+./TicTacToe
+git add .
+git commit -m "Just need tie logic"
+git push -u origin main
+./TicTacToe
