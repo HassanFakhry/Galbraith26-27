@@ -1,0 +1,71 @@
+#include <iostream>
+#include <vector>
+using namespace std;
+
+struct student {
+    char firstName[100];
+    char lastName[100];
+    int id;
+    float gpa;
+};
+
+void addStuds(vector<student> &studList);
+void printStuds(vector<student> &studList);
+void deleteStuds(vector<student> &studList);
+
+int main() {
+
+  int input;
+  
+  cout << "The menu is the following" << endl;
+  cout << "Add Student (1)" << endl;
+  cout << "Print all Students (2)" << endl;
+  cout << "Delete a student (3)" << endl;
+  cout << "QUIT (4)" << endl;
+  cin >> input;
+  bool quit = false;
+  vector<student> studList = {};
+  
+  while (!quit) {
+    
+    if (input == 1 || input == 2 || input == 3 || input == 4) {
+      if (input == 1) {
+      
+	addStuds(studList);
+	  }
+      if (input == 2) {
+	printStuds(studList);
+	  }
+      if (input == 3) {
+	deleteStuds(studList);
+	  }
+    }
+    else {
+      cout << "You have not inputed a proper value, try again.";
+	}
+  }
+  return 0;
+}
+
+void addStuds(vector<student> &studList) {
+  student currentStudent;
+  cout << "You are creating student " << studList.size() + 1 << " Good luck!" << endl;   
+  cout << "Input the student's first name: ";
+  cin >> currentStudent.firstName;
+  cout << "Input the student's last name: ";
+  cin >> currentStudent.lastName;
+  cout << "Input the student's ID number: ";
+  cin >> currentStudent.id;
+  cout << "Input the student's GPA: ";
+  cin >> currentStudent.gpa;
+ 
+  studList.push_back(currentStudent);
+  
+}
+
+void printStuds(vector<student> &studList) {
+  cout << "Print studs here.";
+}
+void deleteStuds(vector<student> &studList) {
+  cout << "Delete studs here.";
+}

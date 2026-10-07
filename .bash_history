@@ -382,3 +382,23 @@ ls
 emacs TicTacToe.cpp
 ./TicTacToe
 emacs TicTacToe.cp
+emacs TicTacToe.cpp
+g++ -o TicTacToe.cpp
+g++ TicTacToe.cpp -o TicTacToe
+./TicTacToe
+emacs TicTacToe.cpp
+emacs TicTacToe.cpp
+g++ TicTacToe.cpp -o TicTacToe
+./TicTacToe
+emacs TicTacToe.cpp
+emacs TicTacToe.cpp
+g++ TicTacToe.cpp -o TicTacToe
+git add .
+git commit -m "TicTacToe"
+git push -u origin main
+git push -u origin main 
+emacs TicTacToe.cpp
+emacs TicTacToe.cpp
+git add .
+git commit -m "TicTacToe"
+git push -u origin main 
