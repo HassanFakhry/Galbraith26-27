@@ -402,3 +402,84 @@ emacs TicTacToe.cpp
 git add .
 git commit -m "TicTacToe"
 git push -u origin main 
+
+emacs StudentList.cpp
+g++ StudentList.cpp -o StudentList
+emacs StudentList.cpp
+g++ StudentList.cpp -o StudentList
+emacs StudentList.cpp
+g++ StudentList.cpp -o StudentList
+g++ StudentList.cpp -o StudentList
+emacs StudentList.cpp
+emacs StudentList.cpp
+g++ StudentList.cpp -o StudentList
+emacs StudentList.cpp
+g++ StudentList.cpp -o StudentList
+emacs StudentList.cpp
+emacs StudentList.cpp
+g++ StudentList.cpp -o StudentList
+emacs StudentList.cpp
+emacs StudentList.cpp
+g++ StudentList.cpp -o StudentList
+emacs StudentList.cpp
+emacs StudentList.cpp
+g++ StudentList.cpp -o StudentList
+emacs StudentList.cpp
+g++ StudentList.cpp -o StudentList
+emacs StudentList.cpp
+emacs StudentList.cpp
+y
+y
+y
+y
+y
+y
+y
+y
+y
+y
+y
+g++ StudentList.cpp -o StudentList
+emacs StudentList.cpp
+g++ StudentList.cpp -o StudentList
+emacs StudentList.cpp
+emacs StudentList.cpp
+g++ StudentList.cpp -o StudentList
+emacs StudentList.cpp
+g++ StudentList.cpp -o StudentList
+
+g++ StudentList.cpp -o StudentList
+emacs StudentList.cpp
+emacs StudentList.cpp
+g++ StudentList.cpp -o StudentList
+emacs StudentList.cpp
+g++ StudentList.cpp -o StudentList
+emacs StudentList.cpp
+g++ StudentList.cpp -o StudentList
+emacs StudentList.cpp
+g++ StudentList.cpp -o StudentList
+emacs StudentList.cpp
+g++ StudentList.cpp -o StudentList
+g++ StudentList.cpp -o StudentList
+emacs StudentList.cpp
+g++ StudentList.cpp -o StudentList
+emacs StudentList.cpp
+g++ StudentList.cpp -o StudentList
+emacs StudentList.cpp
+emacs StudentList.cpp
+g++ StudentList.cpp -o StudentList
+emacs StudentList.cpp
+emacs StudentList.cpp
+g++ StudentList.cpp -o StudentList
+emacs StudentList.cpp
+g++ StudentList.cpp -o StudentList
+emacs StudentList.cpp
+g++ StudentList.cpp -o StudentList
+emacs StudentList.cpp
+git add .
+git commit -m "Day1"
+git push -u origin  main
+git push -u origin  main
+git push -u origin  main
+ls
+emacs StudentList.cpp
