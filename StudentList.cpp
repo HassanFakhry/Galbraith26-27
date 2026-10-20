@@ -1,3 +1,7 @@
+
+// Hassan Fakhry -- 10/16/2026 
+// Student List: What this program does is it creates a Student Class, and allows the user to Create, Remove, or View Students.
+
 // Pre-requisites to access everything required to run the program
 
 #include <iostream>
