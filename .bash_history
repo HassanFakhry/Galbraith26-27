@@ -1,68 +1,3 @@
-git clone https://github.com/HassanFakhry/Galbraith26-27/
-ls
-cp palindrome.cpp ./Galbraith26-27
-cp palindrome.cpp ./Galbraith26-27/palindrome.cpp
-ls
-cd Galbraith26-27
-ls
-git add .
-git commit -m "Palindrome d1"
-git push origin main
-ls
-./Palindrome.cpp
-emacs palindrome.cpp
-./palindrome.exe
-./palindrome.exe
-./palindrome.exe
-emacs palindrome.cpp
-g++ palindrome.cpp -o palindrome
-./palindrome.exe
-hhh
-./palindrome.exe
-emacs palindrome.cpp
-g++ palindrome.cpp -o palindrome
-emacs palindrome.cpp
-g++ palindrome.cpp -o palindrome
-hey
-./palindrome.exe
-./palindrome.exe
-emacs palindrome.cpp
-g++ palindrome.cpp -o palindrome
-./palindrome.exe
-emacs palindrome.cpp
-g++ palindrome.cpp -o palindrome
-./palindrome.exe
-g++ palindrome.cpp -o palindrome
-emacs palindrome.cpp
-emacs palindrome.cpp
-g++ palindrome.cpp -o palindrome
-./palindrome.exe
-g++ palindrome.cpp -o palindrome
-emacs palindrome.cpp
-g++ palindrome.cpp -o palindrome
-emacs palindrome.cpp
-g++ palindrome.cpp -o palindrome
-./palindrome.exe
-g++ palindrome.cpp -o palindrome
-emacs palindrome.cpp
-g++ palindrome.cpp -o palindrome
-emacs palindrome.cpp
-./palindrome.exe
-emacs palindrome.cpp
-g++ palindrome.cpp -o palindrome
-./palindrome.exe
-g++ palindrome.cpp -o palindrome
-
-g++ palindrome.cpp -o palindrome
-./palindrome.exe
-emacs palindrome.cpp
-g++ palindrome.cpp -o palindrome
-./palindrome.exe
-./palindrome.exe
-emacs palindrome.cpp
-./palindrome.exe
-./palindrome.exe
-emacs palindrome.cpp
 g++ palindrome.cpp -o palindrome
 ./palindrome.exe
 emacs palindrome.cpp
@@ -498,3 +433,68 @@ emacs StudentList.cpp
 git add .
 git commit -m "Comments needed"
 git push -u origin main
+./StudentList 
+emacs StudentList.cpp
+emacs StudentList.cpp
+./StudentList 
+emacs StudentList.cpp
+./StudentList 
+emacs StudentList.cpp
+./StudentList 
+g++ StudentList.cpp -o StudentList
+./StudentList 
+emacs StudentList.cpp
+./StudentList 
+emacs StudentList.cpp
+g++ StudentList.cpp -o StudentList
+emacs StudentList.cpp
+./StudentList 
+g++ StudentList.cpp -o StudentList
+./StudentList 
+emacs StudentList.cpp
+emacs StudentList.cpp
+g++ StudentList.cpp -o StudentList
+emacs StudentList.cpp
+g++ StudentList.cpp -o StudentList
+./StudentList 
+emacs StudentList.cpp
+g++ StudentList.cpp -o StudentList
+./StudentList 
+emacs StudentList.cpp
+./StudentList 
+g++ StudentList.cpp -o StudentList
+emacs StudentList.cpp
+g++ StudentList.cpp -o StudentList
+./StudentList 
+emacs StudentList.cpp
+git add.
+git add .
+git commit -m "Vector Requirementless"
+git push -u origin main
+emacs StudentList.cpp
+./StudentList 
+g++ StudentList.cpp -o StudentList
+emacs StudentList.cpp
+g++ StudentList.cpp -o StudentList
+./StudentList 
+git add .
+git commit -m "Done?"
+git push -u origin main
+Galbraith password
+Galbraith password
+Convert to PDF
+git push -u origin main
+Galbraith password
+Galbraith password
+Convert to PDF
+100%
+11
+git add .
+git commit -m "Push"
+git push -u origin main
+emacs Code.cpp
+g++ -o Code.cpp Assignment
+g++ -o Code Code.cpp
+emacs Code.cpp
+g++ StudentList.cpp -o StudentList
+emacs StudentList.cpp
