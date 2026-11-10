@@ -1,65 +1,3 @@
-g++ palindrome.cpp -o palindrome
-./palindrome.exe
-emacs palindrome.cpp
-g++ palindrome.cpp -o palindrome
-emacs palindrome.cpp
-g++ palindrome.cpp -o palindrome
-./palindrome.exe
-emacs palindrome.cpp
-g++ palindrome.cpp -o palindrome
-./palindrome.exe
-./palindrome.exe
-g++ palindrome.cpp -o palindrome
-emacs palindrome.cpp
-g++ palindrome.cpp -o palindrome
-./palindrome.exe
-./palindrome.exe
-emacs palindrome.cpp
-g++ palindrome.cpp -o palindrome
-./palindrome.exe
-./palindrome.exe
-emacs palindrome.cpp
-g++ palindrome.cpp -o palindrome
-emacs palindrome.cpp
-g++ palindrome.cpp -o palindrome
-./palindrome.exe
-./palindrome.exe
-g++ palindrome.cpp -o palindrome
-emacs palindrome.cpp
-./palindrome.exe
-./palindrome.exe
-emacs palindrome.cpp
-g++ palindrome.cpp -o palindrome
-./palindrome.exe
-./palindrome.exe
-./palindrome.exe
-emacs palindrome.cpp
-g++ palindrome.cpp -o palindrome
-./palindrome.exe
-hey how are you doing
-
-./palindrome.exe
-./palindrome.exe
-./palindrome.exe
-./palindrome.exe
-g++ palindrome.cpp -o palindrome
-
-emacs palindrome.cpp
-g++ palindrome.cpp -o palindrome
-emacs palindrome.cpp
-g++ palindrome.cpp -o palindrome
-./palindrome.exe
-./palindrome.exe
-./palindrome.exe
-./palindrome.exe
-emacs palindrome.cpp
-./palindrome.exe
-./palindrome.exe
-./palindrome.exe
-emacs palindrome.cpp
-g++ palindrome.cpp -o palindrome[A
-g++ palindrome.cpp -o palindrome[A
-g++ palindrome.cpp -o palindrome
 ./palindrome.exe
 ./palindrome.exe
 emacs palindrome.cpp
@@ -498,3 +436,65 @@ g++ -o Code Code.cpp
 emacs Code.cpp
 g++ StudentList.cpp -o StudentList
 emacs StudentList.cpp
+ls
+emacs Classes.cpp
+git add .
+git push -u origin main
+git push 
+git push
+469303@SHS-HYBF6X3 ~
+$ ls
+'#TicTacToe.cp#'   '#palindrome.cpp#'   Palindrme.exe     StudentList.cpp~   TicTacToe.cpp    TicTacToe.exe   main.cpp         palindrome.cpp~  'palindrome[A.exe'
+'#TicTacToe.cpp#'   Galbraith26-27      StudentList.cpp   StudentList.exe    TicTacToe.cpp~   a.exe           palindrome.cpp   palindrome.exe
+469303@SHS-HYBF6X3 ~
+$ emacs Classes.cpp
+469303@SHS-HYBF6X3 ~
+$ git add .
+469303@SHS-HYBF6X3 ~
+$ git push -u origin main
+Username for 'https://github.com':
+Password for 'https://HassanFakhry@github.com':
+To https://github.com/HassanFakhry/Galbraith26-27.git
+ ! [rejected]        main -> main (fetch first)
+error: failed to push some refs to 'https://github.com/HassanFakhry/Galbraith26-27.git'
+hint: Updates were rejected because the remote contains work that you do not
+hint: have locally. This is usually caused by another repository pushing to
+hint: the same ref. If you want to integrate the remote changes, use
+hint: 'git pull' before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+469303@SHS-HYBF6X3 ~
+$ git push
+Username for 'https://github.com':
+Password for 'https://HassanFakhry@github.com':
+To https://github.com/HassanFakhry/Galbraith26-27.git
+ ! [rejected]        main -> main (fetch first)
+error: failed to push some refs to 'https://github.com/HassanFakhry/Galbraith26-27.git'
+hint: Updates were rejected because the remote contains work that you do not
+hint: have locally. This is usually caused by another repository pushing to
+hint: the same ref. If you want to integrate the remote changes, use
+hint: 'git pull' before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+469303@SHS-HYBF6X3 ~
+$ git push
+Username for 'https://github.com':
+Password for 'https://HassanFakhryPersonal@github.com':
+git push -u origin main
+git push -u origin main
+git pull
+git push -u origin main
+ls
+git add .
+git add Classes.cpp
+git push -u origin main
+git add .
+git commit -m "Pushuing
+git commit -m "pushing"
+git push -u origin main
+ls
+emacs Classes.cpp
+emacs Classes.cpp
+emacs header.h
+emacs Media.h
+emacs Media.h
+emacs Media.cpp
+emacs Media.h
