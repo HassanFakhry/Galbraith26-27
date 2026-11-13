@@ -6,9 +6,9 @@
 #include <vector>
 #include <cstring>
 #include "Media.h"
-#include "videoGames.h"
+#include "VideoGame.h"
 #include "Music.h"
-#include "Movies.h"
+#include "Movie.h"
 
 using namespace std;
 
@@ -18,8 +18,6 @@ void deletee();
 
 int main() {
 
-  std::vector<int> vec = {
-  
   return 0;
 
 }
