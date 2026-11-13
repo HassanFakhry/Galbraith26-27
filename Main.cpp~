@@ -11,13 +11,36 @@ int main() {
 
   bool loop = true;
 
+  vector<Media*> database;
+  
   while (loop) {
-    cout << "call your function (ADD), (SEARCH), (DELETE), or (QUIT)" << endl;
-    char input[7];
+    cout << endl << "call your function (ADD), (SEARCH), (DELETE), or (QUIT)" << endl;
+    char input[100];
+    char topic;
     cin >> input;
     
     if (strcmp(input, "ADD") == 0) {
 	cout << "Called Add" << endl;
+
+	cout << "Are we adding a Game (G), a Music (M) or a Movie (m)" << endl;
+	cin >> topic;
+
+	cout << "Give your title, year aswell as ";
+	if (topic == 'G') {
+	  cout << "Publisher, and rating." << endl;
+	}
+	if (topic == 'M') {
+	  cout << "Artist, duration, and publisher" << endl;
+	}
+	if (topic == 'm') {
+	  cout << "direcor and rating" << endl;
+	}
+
+ 
+	
+        
+	
+
     }
 
         
