@@ -1,7 +1,50 @@
 #include <iostream>
+#include <vector>
+#include "VideoGame.h"
+#include "Music.h"
+#include "Movie.h"
+#include "Media.h"
+#include <cstring>
 
+using namespace std;
 int main() {
-  std::cout << "Pushing to Github with Cygwin!" << std::endl;
+
+  bool loop = true;
+
+  
+  while (loop) {
+    cout << "call your function (ADD), (SEARCH), (DELETE), or (QUIT)" << endl;
+    char input[7];
+    cin >> input;
+    
+    if (strcmp(input, "ADD") == 0) {
+	cout << "Called Add" << endl;
+    }
+
+        
+    else if (strcmp(input, "SEARCH") == 0) {
+	cout << "Called Searchc" << endl;
+    }
+
+        
+    else if (strcmp(input, "DELETE") == 0) {
+	cout << "Called DELETE" << endl;
+    }
+
+      
+    else if (strcmp(input, "QUIT") == 0) {
+	cout << "Called Quit" << endl;
+	break;
+    }
+
+    else {
+      cout << "Invalid user input, please try again." << endl;
+    }
+
+
+   }  
+
+  
   return 0;
 
 }
